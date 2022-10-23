@@ -6,6 +6,8 @@ You may add top and bottom text to the randomly generated meme template, downloa
 ## API Used
 
  - https://api.imgflip.com/get_memes
+ 
+#### Check it out live -> https://kedar-nadh.github.io/Meme-Generator/
 
 ## Screenshots
 
